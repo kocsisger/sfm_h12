@@ -3,3 +3,4 @@ korte
 banan
 kivi
 bananasz
+szeder
